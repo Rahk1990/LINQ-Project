@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30709.132
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseFirstLINQ", "DatabaseFirstLINQ\DatabaseFirstLINQ.csproj", "{E1B0E8AE-4755-48CD-8F5E-114F142A7FCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DatabaseFirstLINQ", "DatabaseFirstLINQ.csproj", "{7404345B-7C83-412F-ACCB-BA9A83A5379B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E1B0E8AE-4755-48CD-8F5E-114F142A7FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E1B0E8AE-4755-48CD-8F5E-114F142A7FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E1B0E8AE-4755-48CD-8F5E-114F142A7FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E1B0E8AE-4755-48CD-8F5E-114F142A7FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7404345B-7C83-412F-ACCB-BA9A83A5379B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7404345B-7C83-412F-ACCB-BA9A83A5379B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7404345B-7C83-412F-ACCB-BA9A83A5379B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7404345B-7C83-412F-ACCB-BA9A83A5379B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {0E2AF8C4-B79B-40B3-8640-D40BFC3D6543}
+		SolutionGuid = {AC9839D4-A482-487E-B43A-D00B5A6A6D07}
 	EndGlobalSection
 EndGlobal
